@@ -1,0 +1,13 @@
+matplotlib
+
+
+
+pyserial~=3.5
+pip>21.0.0
+numpy~=1.18.5
+setuptools~=33.1.1
+six~=1.16.0
+python-dateutil~=2.8.2
+cycler~=0.10.0
+pyparsing~=2.4.7
+kiwisolver~=1.1.0
